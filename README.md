@@ -1,4 +1,4 @@
-# Rust Forge
+# Dust Forge
 
 Welcome to the [Rust Forge]! Rust Forge serves as a repository of supplementary
 documentation useful for members of [The Rust Programming Language].
